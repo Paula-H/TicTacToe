@@ -1,0 +1,25 @@
+# ninja log v5
+660	5742	7088014771451487	CMakeFiles/TicTacToe.dir/main.cpp.obj	db40de85447eaa88
+15	660	7088014720085246	TicTacToe_autogen/timestamp	372e49a0437ca67b
+5993	6620	7088014778153822	TicTacToe.exe	951c3d0aab544a86
+11359	12397	7087998319295044	CMakeFiles/TicTacToe.dir/Testing.cpp.obj	d4f9e611253f21ea
+15	660	7088014720085246	TicTacToe_autogen/mocs_compilation.cpp	372e49a0437ca67b
+15	660	7088014720085246	D:/OOP_Laboratoare/TicTacToe/cmake-build-debug/TicTacToe_autogen/timestamp	372e49a0437ca67b
+15	660	7088014720085246	D:/OOP_Laboratoare/TicTacToe/cmake-build-debug/TicTacToe_autogen/mocs_compilation.cpp	372e49a0437ca67b
+664	5532	7088014769361836	CMakeFiles/TicTacToe.dir/TicTacToe_autogen/mocs_compilation.cpp.obj	9fa02e6d0d742ea6
+668	5993	7088014773972416	CMakeFiles/TicTacToe.dir/GUI.cpp.obj	ab6a65738c9bb986
+15	179	7088015330690373	TicTacToe_autogen/timestamp	372e49a0437ca67b
+15	179	7088015330690373	TicTacToe_autogen/mocs_compilation.cpp	372e49a0437ca67b
+15	179	7088015330690373	D:/OOP_Laboratoare/TicTacToe/cmake-build-debug/TicTacToe_autogen/timestamp	372e49a0437ca67b
+15	179	7088015330690373	D:/OOP_Laboratoare/TicTacToe/cmake-build-debug/TicTacToe_autogen/mocs_compilation.cpp	372e49a0437ca67b
+183	3679	7088015365673923	CMakeFiles/TicTacToe.dir/GUI.cpp.obj	ab6a65738c9bb986
+3680	4665	7088015369353602	TicTacToe.exe	951c3d0aab544a86
+15	1266	7088016370428058	TicTacToe_autogen/timestamp	372e49a0437ca67b
+15	1266	7088016370428058	TicTacToe_autogen/mocs_compilation.cpp	372e49a0437ca67b
+15	1266	7088016370428058	D:/OOP_Laboratoare/TicTacToe/cmake-build-debug/TicTacToe_autogen/timestamp	372e49a0437ca67b
+15	1266	7088016370428058	D:/OOP_Laboratoare/TicTacToe/cmake-build-debug/TicTacToe_autogen/mocs_compilation.cpp	372e49a0437ca67b
+1266	12444	7088016486699471	CMakeFiles/TicTacToe.dir/TicTacToe_autogen/mocs_compilation.cpp.obj	9fa02e6d0d742ea6
+1281	12469	7088016486924680	CMakeFiles/TicTacToe.dir/main.cpp.obj	db40de85447eaa88
+1286	12869	7088016490990754	CMakeFiles/TicTacToe.dir/GUI.cpp.obj	ab6a65738c9bb986
+12450	13950	7088016502117170	CMakeFiles/TicTacToe.dir/Testing.cpp.obj	d4f9e611253f21ea
+13950	14813	7088016506898642	TicTacToe.exe	951c3d0aab544a86

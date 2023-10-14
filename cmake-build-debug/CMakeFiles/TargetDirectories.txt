@@ -1,0 +1,5 @@
+D:/OOP_Laboratoare/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe.dir
+D:/OOP_Laboratoare/TicTacToe/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OOP_Laboratoare/TicTacToe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/OOP_Laboratoare/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe_autogen_timestamp_deps.dir
+D:/OOP_Laboratoare/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe_autogen.dir
